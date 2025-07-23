@@ -38,6 +38,8 @@
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/49a20772-7563-4bc5-bf87-3d33d602c6b9)
 
+[![Google Cybersecurity Certificate](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://images.ctfassets.net/wp1lcwdav1p1/4gXLS4Av9m6QaE2j3xT2JG/abfc2bcf041e9f3b0b38c05b6fa0a202/GoogleCareerCertificates_Icon_Cybersecurity_1x1.png?auto=format%2Ccompress&dpr=1&w=110)](https://coursera.org/verify/profession
+al-cert/D4OJ7NBCTL63)
 ---
 
 ### 🚀 Projects

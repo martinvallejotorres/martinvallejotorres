@@ -25,7 +25,7 @@
 ### 🧰 Tecnologías y Herramientas
 
 #### Lenguajes y frameworks
-![](https://skillicons.dev/icons?i=cs,c,js,html,css,dotnet&perline=3)
+![](https://skillicons.dev/icons?i=cs,c,java,js,html,css,dotnet&perline=3)
 
 ### Base de Datos
 ![](https://skillicons.dev/icons?i=postgres,mysql)
@@ -47,6 +47,7 @@
 | Proyecto | Tecnologías | Estado | Descripción |
 |----------|-------------|--------|-------------|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ En desarrollo | Plataforma de gestión de cultivos con seguimiento meteorológico, progreso fenológico y control de siembra y cosecha. |
+| **CRUDuser** | `Java` | 🛠️ Finalizada | CRUD simple de gestion de usuarios por consola en Java |
 
 > *Pronto más proyectos en camino...*
 

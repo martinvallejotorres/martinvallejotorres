@@ -45,6 +45,7 @@
 | Project | Tech Stack | Status | Description |
 |--------|------------|--------|-------------|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ In development | A crop management platform with weather monitoring, phenological progress tracking, and harvest control |
+| **CRUD Users** | `Java` | 🛠️ Done | Simple CRUD user console managment |
 
 > *More projects coming soon...*
 

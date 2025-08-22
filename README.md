@@ -22,7 +22,7 @@
 
 ### 🧰 Tech Stack & Tools
 
-![](https://skillicons.dev/icons?i=cs,c,js,html,css,dotnet&perline=3)
+![](https://skillicons.dev/icons?i=cs,c,java,js,html,css,dotnet&perline=3)
 
 #### Database
 

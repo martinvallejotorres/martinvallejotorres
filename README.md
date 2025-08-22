@@ -60,7 +60,7 @@
 
 ### ✨ Personal Motto
 
-> _"No one is born knowing"_ — Learning is part of the journey.
+> _"No one born knowing"_ — Learning is part of the journey.
 
 ---
 

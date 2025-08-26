@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hola, soy Martín Vallejo 👋</h1>
-<h3 align="center">.NET Backend Developer | Apasionado por la tecnología y el aprendizaje constante</h3>
+<h3 align="center">Backend Developer | Apasionado por la tecnología y el aprendizaje constante</h3>
 
 <p align="center">
   <a href="mailto:vallejomartin6l@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 💻 Desarrollador backend especializado en **C# y .NET**.
+- 💻 Desarrollador backend especializado en **C# .NET y JAVA**.
 - 🧠 Firme creyente del crecimiento constante: _"nadie nació sabiendo"_.
 - 🧰 Me apasionan las buenas prácticas, la arquitectura limpia y el diseño de APIs escalables.
 - ☁️ Explorando el mundo Cloud (Azure), DevOps y el desarrollo móvil con .NET MAUI.
@@ -49,6 +49,7 @@
 |----------|-------------|--------|-------------|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ En desarrollo | Plataforma de gestión de cultivos con seguimiento meteorológico, progreso fenológico y control de siembra y cosecha. |
 | **CRUDuser** | `Java` | 🛠️ Finalizada | CRUD simple de gestion de usuarios por consola en Java |
+| **ContactList** | `Java` | 🛠️ Finalizada | Agenda de contactos por consola JAVA |
 
 > *Pronto más proyectos en camino...*
 

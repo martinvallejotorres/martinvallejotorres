@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Backend developer focused on **C# and .NET**
+- 💻 Backend developer focused on **C# .NET and JAVA**
 - 🧠 Strong believer in continuous improvement – _"no one is born knowing"_
 - 🧰 I enjoy clean architecture, API design and backend best practices
 - ☁️ Currently exploring Cloud (Azure), DevOps, and cross-platform mobile development with .NET MAUI
@@ -46,7 +46,7 @@
 |--------|------------|--------|-------------|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ In development | A crop management platform with weather monitoring, phenological progress tracking, and harvest control |
 | **CRUD Users** | `Java` | 🛠️ Done | Simple CRUD user console managment |
-
+| **ContactList** | `Java` | 🛠️ Done | Simple project to manage your own contact list in JAVA |
 > *More projects coming soon...*
 
 ---

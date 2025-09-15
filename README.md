@@ -47,6 +47,7 @@
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ In development | A crop management platform with weather monitoring, phenological progress tracking, and harvest control |
 | **CRUD Users** | `Java` | 🛠️ Done | Simple CRUD user console managment |
 | **ContactList** | `Java` | 🛠️ Done | Simple project to manage your own contact list in JAVA |
+| **SuperMarket** | `Java` | 🛠️ Done | Managment of products in a market in JAVA |
 > *More projects coming soon...*
 
 ---

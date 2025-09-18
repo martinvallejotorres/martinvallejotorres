@@ -51,6 +51,7 @@
 | **CRUDuser** | `Java` | 🛠️ Finalizada | CRUD simple de gestion de usuarios por consola en Java |
 | **ContactList** | `Java` | 🛠️ Finalizada | Agenda de contactos por consola JAVA | 
 | **superMercadoProject** | `Java` | 🛠️ Finalizada | Gestion de productos de supermercado JAVA |
+| **Gestor Biblioteca** | `Java` | 🛠️ Finalizada | Proyecto de biblioteca, permite crear y elegir entre revista, ebook y libro fisico JAVA |
 
 > *Pronto más proyectos en camino...*
 

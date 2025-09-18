@@ -48,10 +48,10 @@
 | Proyecto | Tecnologías | Estado | Descripción |
 |----------|-------------|--------|-------------|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ En desarrollo | Plataforma de gestión de cultivos con seguimiento meteorológico, progreso fenológico y control de siembra y cosecha. |
-| **CRUDuser** | `Java` | 🛠️ Finalizada | CRUD simple de gestion de usuarios por consola en Java |
-| **ContactList** | `Java` | 🛠️ Finalizada | Agenda de contactos por consola JAVA | 
-| **superMercadoProject** | `Java` | 🛠️ Finalizada | Gestion de productos de supermercado JAVA |
-| **Gestor Biblioteca** | `Java` | 🛠️ Finalizada | Proyecto de biblioteca, permite crear y elegir entre revista, ebook y libro fisico JAVA |
+| **CRUDuser** | `Java` | 🛠️ Finalizada | CRUD simple de gestion de usuarios por consola|
+| **ContactList** | `Java` | 🛠️ Finalizada | Agenda de contactos por consola| 
+| **superMercadoProject** | `Java` | 🛠️ Finalizada | Gestion de productos de supermercado|
+| **Gestor Biblioteca** | `Java` | 🛠️ Finalizada | Proyecto de biblioteca, permite crear y elegir entre revista, ebook y libro fisico|
 
 > *Pronto más proyectos en camino...*
 

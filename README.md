@@ -45,9 +45,11 @@
 | Project | Tech Stack | Status | Description |
 |--------|------------|--------|-------------|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ In development | A crop management platform with weather monitoring, phenological progress tracking, and harvest control |
-| **CRUD Users** | `Java` | 🛠️ Done | Simple CRUD user console managment |
-| **ContactList** | `Java` | 🛠️ Done | Simple project to manage your own contact list in JAVA |
-| **SuperMarket** | `Java` | 🛠️ Done | Managment of products in a market in JAVA |
+| **CRUD Users** | `Java` | 🛠️ Completed | Simple CRUD user console managment |
+| **ContactList** | `Java` | 🛠️ Completed | Simple project to manage your own contact list|
+| **SuperMarket** | `Java` | 🛠️ Completed | Managment of products in a market|
+| ***Library Manager** | `Java`| 🛠️ Completed | Library project, allows you to create and choose between magazine, ebook and physical book |
+
 > *More projects coming soon...*
 
 ---

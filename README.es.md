@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hola, soy Martín Vallejo 👋</h1>
-<h3 align="center">Backend Developer | Apasionado por la tecnología y el aprendizaje constante</h3>
+<h3 align="center">Tecnología | Ciberseguridad | Desarrollo de Software | Aprendizaje continuo</h3>
 
 <p align="center">
   <a href="mailto:vallejomartin6l@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
@@ -14,18 +14,19 @@
 
 ### 👨‍💻 Sobre mí
 
-- 💻 Desarrollador backend especializado en **C# .NET y JAVA**.
+- 🔐 Entusiasta de la **ciberseguridad**, con certificación en **Google Cybersecurity** y práctica en laboratorios de **TryHackMe** (Análisis de vulnerabilidades web, Linux hardening, OWASP Top 10).
+- 💻 Experiencia en **desarrollo backend** con **.NET y Java**, aplicando principios de arquitectura limpia, SOLID y buenas prácticas.  
 - 🧠 Firme creyente del crecimiento constante: _"nadie nació sabiendo"_.
-- 🧰 Me apasionan las buenas prácticas, la arquitectura limpia y el diseño de APIs escalables.
-- ☁️ Explorando el mundo Cloud (Azure), DevOps y el desarrollo móvil con .NET MAUI.
-- 🎯 Buscando siempre nuevos retos para seguir creciendo como profesional y persona.
+- 📊 Experiencia en **bases de datos SQL Server, MySQL y PostgreSQL**. 
+- ☁️ Conocimientos en **Cloud (AWS & Azure)**, **DevOps**, CI/CD y automatización de procesos.
+- 🎯 Apasionado por la mejora continua, autodidacta y con mentalidad analítica. 
 
 ---
 
 ### 🧰 Tecnologías y Herramientas
 
 #### Lenguajes y frameworks
-![](https://skillicons.dev/icons?i=cs,c,java,js,html,css,dotnet&perline=3)
+![](https://skillicons.dev/icons?i=cs,java,linux,c,js,html,css,dotnet&perline=3)
 
 ### Base de Datos
 ![](https://skillicons.dev/icons?i=postgres,mysql)
@@ -47,11 +48,12 @@
 
 | Proyecto | Tecnologías | Estado | Descripción |
 |----------|-------------|--------|-------------|
+|**OWASP Juice Shop Analysis** | `TryHackMe`, `OWASP Top 10` | ✅ Finalizado | Análisis y documentación de vulnerabilidades web comunes (SQLi, XSS). |
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ En desarrollo | Plataforma de gestión de cultivos con seguimiento meteorológico, progreso fenológico y control de siembra y cosecha. |
-| **CRUDuser** | `Java` | 🛠️ Finalizada | CRUD simple de gestion de usuarios por consola|
-| **ContactList** | `Java` | 🛠️ Finalizada | Agenda de contactos por consola| 
-| **superMercadoProject** | `Java` | 🛠️ Finalizada | Gestion de productos de supermercado|
-| **Gestor Biblioteca** | `Java` | 🛠️ Finalizada | Proyecto de biblioteca, permite crear y elegir entre revista, ebook y libro fisico|
+| **CRUDuser** | `Java` | ✅ Finalizada | CRUD simple de gestion de usuarios por consola|
+| **ContactList** | `Java` | ✅ Finalizada | Agenda de contactos por consola| 
+| **superMercadoProject** | `Java` | ✅ Finalizada | Gestion de productos de supermercado|
+| **Gestor Biblioteca** | `Java` | ✅ Finalizada | Proyecto de biblioteca, permite crear y elegir entre revista, ebook y libro fisico|
 
 > *Pronto más proyectos en camino...*
 

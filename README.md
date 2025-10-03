@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Martín Vallejo 👋</h1>
-<h3 align="center">.NET Backend Developer | Passionate about tech and continuous learning</h3>
+<h3 align="center">Technology Professional | Cybersecurity Enthusiast | Passionate about tech and continuous learning</h3>
 
 <p align="center">
   <a href="mailto:vallejomartin6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
@@ -12,17 +12,17 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Backend developer focused on **C# .NET and JAVA**
+- 💻 Technology professional with a background in **software development (.NET & Java)** and a growing focus on **cybersecurity**. 
 - 🧠 Strong believer in continuous improvement – _"no one is born knowing"_
-- 🧰 I enjoy clean architecture, API design and backend best practices
-- ☁️ Currently exploring Cloud (Azure), DevOps, and cross-platform mobile development with .NET MAUI
-- 🎯 Always looking for new challenges to grow as a developer and as a person
+- 🧰 Certified in **Google Cybersecurity Professional Certificate** and continuously learning through hands-on labs (TryHackMe, OWASP, Linux).
+- ☁️ Passionate about continuous improvement, problem-solving, and applying a **DevSecOps mindset** to projects. Always open to new challenges to grow as a professional and as a person.
+- 🎯 Interested in **Security Analyst Jr.** roles — vulnerability assessment, network scanning, and secure coding practices. 
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-![](https://skillicons.dev/icons?i=cs,c,java,js,html,css,dotnet&perline=3)
+![](https://skillicons.dev/icons?i=cs,java,linux,c,js,html,css,dotnet&perline=3)
 
 #### Database
 
@@ -44,6 +44,7 @@
 
 | Project | Tech Stack | Status | Description |
 |--------|------------|--------|-------------|
+|🔐 Juice Shop Security Assessment](https://github.com/martinvallejotorres/THM-cyber-playground) — Lab project documenting SQLi & XSS vulnerabilities, including PoC and mitigations.|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ In development | A crop management platform with weather monitoring, phenological progress tracking, and harvest control |
 | **CRUD Users** | `Java` | 🛠️ Completed | Simple CRUD user console managment |
 | **ContactList** | `Java` | 🛠️ Completed | Simple project to manage your own contact list|
@@ -71,8 +72,6 @@
 
 <!--
 **martinvallejotorres/martinvallejotorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

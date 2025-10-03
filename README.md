@@ -44,12 +44,12 @@
 
 | Project | Tech Stack | Status | Description |
 |--------|------------|--------|-------------|
-|🔐 Juice Shop Security Assessment](https://github.com/martinvallejotorres/THM-cyber-playground) — Lab project documenting SQLi & XSS vulnerabilities, including PoC and mitigations.|
+| **OWASP Juice Shop Analysis** | `TryHackMe`, `OWASP Top 10` |✅ Completed| Lab project documenting SQLi & XSS vulnerabilities, including PoC and mitigations.|
 | **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ In development | A crop management platform with weather monitoring, phenological progress tracking, and harvest control |
-| **CRUD Users** | `Java` | 🛠️ Completed | Simple CRUD user console managment |
-| **ContactList** | `Java` | 🛠️ Completed | Simple project to manage your own contact list|
-| **SuperMarket** | `Java` | 🛠️ Completed | Managment of products in a market|
-| ***Library Manager** | `Java`| 🛠️ Completed | Library project, allows you to create and choose between magazine, ebook and physical book |
+| **CRUD Users** | `Java` | ✅ Completed | Simple CRUD user console managment |
+| **ContactList** | `Java` | ✅ Completed | Simple project to manage your own contact list|
+| **SuperMarket** | `Java` | ✅ Completed | Managment of products in a market|
+| ***Library Manager** | `Java`| ✅ Completed | Library project, allows you to create and choose between magazine, ebook and physical book |
 
 > *More projects coming soon...*
 

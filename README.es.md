@@ -37,6 +37,18 @@
 
 ---
 
+### 🕵️ TryHackMe Profile
+
+<p align="left">
+  <a href="https://tryhackme.com/p/Ziploc9">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Ziploc9.png" alt="TryHackMe Badge" width="350"/>
+  </a>
+</p>
+
+> Práctica en ciberseguridad a través de laboratorios y desafíos (redes, Linux, OWASP Top 10, escalamiento de privilegios).
+
+---
+
 ### 📜 Certificaciones
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/49a20772-7563-4bc5-bf87-3d33d602c6b9)

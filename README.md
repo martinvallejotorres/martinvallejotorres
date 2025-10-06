@@ -24,10 +24,6 @@
 
 ![](https://skillicons.dev/icons?i=cs,java,linux,c,js,html,css,dotnet&perline=3)
 
-#### TryHackMe profile
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4237011" style='border:none;'></iframe>
-
 #### Database
 
 ![](https://skillicons.dev/icons?i=postgres,mysql)
@@ -35,6 +31,18 @@
 #### Tools & DevOps
 
 ![](https://skillicons.dev/icons?i=aws,azure,docker,git,github,notion,postman,visualstudio&perline=4)
+
+---
+
+### 🕵️ TryHackMe Profile
+
+<p align="center">
+  <a href="https://tryhackme.com/p/martinvallejo">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/martinvallejo.png" alt="TryHackMe Badge" width="350"/>
+  </a>
+</p>
+
+> Hands-on practice in cybersecurity through labs and challenges (networking, Linux, OWASP Top 10, privilege escalation).
 
 ---
 

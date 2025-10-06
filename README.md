@@ -36,7 +36,7 @@
 
 ### 🕵️ TryHackMe Profile
 
-<p align="right">
+<p align="left">
   <a href="https://tryhackme.com/p/Ziploc9">
     <img src="https://tryhackme-badges.s3.amazonaws.com/Ziploc9.png" alt="TryHackMe Badge" width="350"/>
   </a>

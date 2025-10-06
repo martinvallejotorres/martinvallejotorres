@@ -24,6 +24,10 @@
 
 ![](https://skillicons.dev/icons?i=cs,java,linux,c,js,html,css,dotnet&perline=3)
 
+#### TryHackMe profile
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4237011" style='border:none;'></iframe>
+
 #### Database
 
 ![](https://skillicons.dev/icons?i=postgres,mysql)

@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Martín Vallejo 👋</h1>
-<h3 align="center">Technology Professional | Cybersecurity Enthusiast | Passionate about tech and continuous learning</h3>
+<h3 align="center">SQL Developer | .NET + SQL Server Support Engineer | AWS Cloud Practitioner</h3>
 
 <p align="center">
   <a href="mailto:vallejomartin6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/martinvallejotorres"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"></a>
+  <a href="https://github.com/martinvallejotorres"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white"></a>
 </p>
 
 🌐 Available in: [English](README.md) | [Español](README.es.md)
@@ -12,58 +13,55 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Technology professional with a background in **software development (.NET & Java)** and a growing focus on **cybersecurity**. 
-- 🧠 Strong believer in continuous improvement – _"no one is born knowing"_
-- 🧰 Certified in **Google Cybersecurity Professional Certificate** and continuously learning through hands-on labs (TryHackMe, OWASP, Linux).
-- ☁️ Passionate about continuous improvement, problem-solving, and applying a **DevSecOps mindset** to projects. Always open to new challenges to grow as a professional and as a person.
-- 🎯 Interested in **Security Analyst Jr.** roles — vulnerability assessment, network scanning, and secure coding practices. 
+- 🧠 **SQL Developer and Support Engineer** passionate about building and optimizing data-driven systems.  
+- 💻 Experienced in **T-SQL, .NET, C#**, and **SQL Server performance tuning**.  
+- ⚙️ Skilled in query analysis, database design, indexing, stored procedures, and troubleshooting backend data issues.  
+- ☁️ AWS Certified Cloud Practitioner — solid understanding of cloud architecture and secure data operations.  
+- 🧩 Strong focus on **clean, efficient SQL logic** and clear communication when solving complex technical problems.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-![](https://skillicons.dev/icons?i=cs,java,linux,c,js,html,css,dotnet&perline=3)
+#### 💾 Databases
+![](https://skillicons.dev/icons?i=sqlserver,postgres,mysql)
 
-#### Database
+#### ⚙️ Languages & Frameworks
+![](https://skillicons.dev/icons?i=cs,dotnet,java,js)
 
-![](https://skillicons.dev/icons?i=postgres,mysql)
-
-#### Tools & DevOps
-
-![](https://skillicons.dev/icons?i=aws,azure,docker,git,github,notion,postman,visualstudio&perline=4)
+#### ☁️ Cloud & Tools
+![](https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,visualstudio)
 
 ---
 
-### 🕵️ TryHackMe Profile
+### 📊 Featured Projects
 
-<p align="left">
-  <a href="https://tryhackme.com/p/Ziploc9">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Ziploc9.png" alt="TryHackMe Badge" width="350"/>
-  </a>
-</p>
+| Project | Tech Stack | Status | Description |
+|--------|------------|--------|-------------|
+| **SQL Sales Management System** | `SQL Server`, `T-SQL` | ✅ Completed | Relational database design with CRUD, JOINs, and analytical queries for sales tracking. |
+| **SQL Query Optimization** | `SQL Server`, `Indexes`, `Execution Plans` | 🛠️ In progress | Demonstrates query performance tuning and index design. |
+| **ArvoApp** | `.NET MAUI`, `EF Core`, `SQL Server` | 🛠️ In development | Crop management platform with weather monitoring and database-driven dashboards. |
+| **CRUD Users** | `Java`, `MySQL` | ✅ Completed | Simple user management system with basic CRUD functionality. |
 
-> Hands-on practice in cybersecurity through labs and challenges (networking, Linux, OWASP Top 10, privilege escalation).
+> 🧠 Each project includes scripts, documentation, and performance analysis for recruiters and collaborators to review.
 
 ---
 
 ### 📜 Certifications
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/49a20772-7563-4bc5-bf87-3d33d602c6b9)
+[![Learn SQL Programming – LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-SQL-blue?logo=linkedin)](https://www.linkedin.com/learning/)
 [![Google Cybersecurity Certificate](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/110px-Google_2015_logo.svg.png)](https://coursera.org/verify/professional-cert/D4OJ7NBCTL63)
+
 ---
 
-### 🚀 Projects
+### 🧠 Current Focus
 
-| Project | Tech Stack | Status | Description |
-|--------|------------|--------|-------------|
-| **OWASP Juice Shop Analysis** | `TryHackMe`, `OWASP Top 10` |✅ Completed| Lab project documenting SQLi & XSS vulnerabilities, including PoC and mitigations.|
-| **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ In development | A crop management platform with weather monitoring, phenological progress tracking, and harvest control |
-| **CRUD Users** | `Java` | ✅ Completed | Simple CRUD user console managment |
-| **ContactList** | `Java` | ✅ Completed | Simple project to manage your own contact list|
-| **SuperMarket** | `Java` | ✅ Completed | Managment of products in a market|
-| ***Library Manager** | `Java`| ✅ Completed | Library project, allows you to create and choose between magazine, ebook and physical book |
-
-> *More projects coming soon...*
+- Query Optimization & Execution Plans  
+- Database Normalization & Design  
+- T-SQL Stored Procedures & Transactions  
+- C# + SQL Integration for backend support  
+- Azure Data Fundamentals (next certification goal)
 
 ---
 
@@ -76,21 +74,10 @@
 
 ### ✨ Personal Motto
 
-> _"No one born knowing"_ — Learning is part of the journey.
+> _"Data doesn’t lie — it just needs the right query."_  
 
 ---
 
-
-
 <!--
-**martinvallejotorres/martinvallejotorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**martinvallejotorres/martinvallejotorres** — SQL Developer Portfolio.
 -->

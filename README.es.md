@@ -50,8 +50,7 @@
 ### 📜 Certificaciones
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/49a20772-7563-4bc5-bf87-3d33d602c6b9)
-[![HackerRank SQL Certificate](https://img.shields.io/badge/HackerRank-SQL%20Certificate-2EC866?logo=hackerrank&logoColor=white&style=flat)](https://www.hackerrank.com/certificates/01e792699931)
-
+[![HackerRank SQL Certificate](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/110px-HackerRank_logo.png)](https://www.hackerrank.com/certificates/01e792699931)
 [![Google Cybersecurity Certificate](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/110px-Google_2015_logo.svg.png)](https://coursera.org/verify/professional-cert/D4OJ7NBCTL63)
 
 ---

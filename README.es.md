@@ -1,11 +1,10 @@
-
-
 <h1 align="center">Hola, soy Martín Vallejo 👋</h1>
-<h3 align="center">Tecnología | Ciberseguridad | Desarrollo de Software | Aprendizaje continuo</h3>
+<h3 align="center">Desarrollador SQL | Ingeniero de Soporte .NET + SQL Server | AWS Cloud Practitioner</h3>
 
 <p align="center">
-  <a href="mailto:vallejomartin6l@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
+  <a href="mailto:vallejomartin6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/martinvallejotorres"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"></a>
+  <a href="https://github.com/martinvallejotorres"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white"></a>
 </p>
 
 🌐 Disponible en: [Español](README.es.md) | [English](README.md)
@@ -14,60 +13,55 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔐 Entusiasta de la **ciberseguridad**, con certificación en **Google Cybersecurity** y práctica en laboratorios de **TryHackMe** (Análisis de vulnerabilidades web, Linux hardening, OWASP Top 10).
-- 💻 Experiencia en **desarrollo backend** con **.NET y Java**, aplicando principios de arquitectura limpia, SOLID y buenas prácticas.  
-- 🧠 Firme creyente del crecimiento constante: _"nadie nació sabiendo"_.
-- 📊 Experiencia en **bases de datos SQL Server, MySQL y PostgreSQL**. 
-- ☁️ Conocimientos en **Cloud (AWS & Azure)**, **DevOps**, CI/CD y automatización de procesos.
-- 🎯 Apasionado por la mejora continua, autodidacta y con mentalidad analítica. 
+- 🧠 **Desarrollador SQL e Ingeniero de Soporte** especializado en **T-SQL, .NET y SQL Server**.  
+- 💻 Experiencia en **diseño de bases de datos, análisis de consultas, índices, vistas y procedimientos almacenados**.  
+- ⚙️ Enfocado en **optimización de rendimiento** y resolución de problemas en entornos productivos.  
+- ☁️ Certificado como **AWS Cloud Practitioner**, con conocimientos en arquitecturas cloud y operaciones seguras de datos.  
+- 🧩 Fuerte mentalidad analítica y pasión por **automatizar procesos, depurar errores y mejorar la eficiencia de sistemas**.  
 
 ---
 
 ### 🧰 Tecnologías y Herramientas
 
-#### Lenguajes y frameworks
-![](https://skillicons.dev/icons?i=cs,java,linux,c,js,html,css,dotnet&perline=3)
+#### 💾 Bases de Datos
+![](https://skillicons.dev/icons?i=sqlserver,postgres,mysql)
 
-### Base de Datos
-![](https://skillicons.dev/icons?i=postgres,mysql)
+#### ⚙️ Lenguajes y Frameworks
+![](https://skillicons.dev/icons?i=cs,dotnet,java,js)
 
-#### Herramientas y DevOps
-
-![](https://skillicons.dev/icons?i=aws,azure,docker,git,github,notion,postman,visualstudio&perline=4)
+#### ☁️ Cloud y Herramientas
+![](https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,visualstudio)
 
 ---
 
-### 🕵️ TryHackMe Profile
+### 📊 Proyectos Destacados
 
-<p align="left">
-  <a href="https://tryhackme.com/p/Ziploc9">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Ziploc9.png" alt="TryHackMe Badge" width="350"/>
-  </a>
-</p>
+| Proyecto | Tecnologías | Estado | Descripción |
+|----------|-------------|--------|-------------|
+| **Sistema de Gestión de Ventas (SQL)** | `SQL Server`, `T-SQL` | ✅ Finalizado | Diseño relacional completo con operaciones CRUD, consultas analíticas y reportes de ventas. |
+| **Optimización de Consultas SQL** | `SQL Server`, `Índices`, `Planes de ejecución` | 🛠️ En desarrollo | Proyecto enfocado en tuning de consultas e interpretación de planes de ejecución. |
+| **ArvoApp** | `.NET MAUI`, `EF Core`, `SQL Server` | 🛠️ En desarrollo | Plataforma de gestión agrícola con seguimiento meteorológico y base de datos relacional. |
+| **CRUD Usuarios (Java)** | `Java`, `MySQL` | ✅ Finalizado | Sistema CRUD básico por consola para gestión de usuarios. |
 
-> Práctica en ciberseguridad a través de laboratorios y desafíos (redes, Linux, OWASP Top 10, escalamiento de privilegios).
+> 💡 Cada proyecto incluye scripts, documentación y análisis de rendimiento para mostrar experiencia práctica.
 
 ---
 
 ### 📜 Certificaciones
 
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/49a20772-7563-4bc5-bf87-3d33d602c6b9)
+[![Aprende Programación SQL – LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-SQL-blue?logo=linkedin)](https://www.linkedin.com/learning/)
 [![Google Cybersecurity Certificate](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/110px-Google_2015_logo.svg.png)](https://coursera.org/verify/professional-cert/D4OJ7NBCTL63)
 
 ---
 
-### 🚀 Proyectos
+### 🧠 Enfoque Actual
 
-| Proyecto | Tecnologías | Estado | Descripción |
-|----------|-------------|--------|-------------|
-|**OWASP Juice Shop Analysis** | `TryHackMe`, `OWASP Top 10` | ✅ Finalizado | Análisis y documentación de vulnerabilidades web comunes (SQLi, XSS). |
-| **ArvoApp** | `.NET`, `EF Core`, `MAUI`, `SQL Server` | 🛠️ En desarrollo | Plataforma de gestión de cultivos con seguimiento meteorológico, progreso fenológico y control de siembra y cosecha. |
-| **CRUDuser** | `Java` | ✅ Finalizada | CRUD simple de gestion de usuarios por consola|
-| **ContactList** | `Java` | ✅ Finalizada | Agenda de contactos por consola| 
-| **superMercadoProject** | `Java` | ✅ Finalizada | Gestion de productos de supermercado|
-| **Gestor Biblioteca** | `Java` | ✅ Finalizada | Proyecto de biblioteca, permite crear y elegir entre revista, ebook y libro fisico|
-
-> *Pronto más proyectos en camino...*
+- Optimización de consultas (Execution Plans, Indexing, Tuning).  
+- Diseño y normalización de bases de datos.  
+- Procedimientos almacenados, funciones y transacciones.  
+- Integración de C# + SQL para backend y soporte técnico.  
+- Preparación para certificación **Azure Data Fundamentals (DP-900)**.
 
 ---
 
@@ -80,6 +74,10 @@
 
 ### ✨ Frase personal
 
-> _"Nadie nació sabiendo"_ — Aprender es parte del camino.
+> _"Los datos no mienten, solo necesitan la consulta correcta."_  
 
 ---
+
+<!--
+**martinvallejotorres/martinvallejotorres** — Portafolio SQL Developer / Support Engineer.
+-->

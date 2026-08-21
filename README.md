@@ -101,7 +101,16 @@ coordinating availability and chatting in real time.
 </tr>
 </table>
 
-> 🧠 Each project includes scripts, documentation, and performance analysis for recruiters and collaborators to review.
+## Application Support Experience
+
+Beyond development, I have experience investigating and resolving
+application and data-related issues.
+
+- SQL query analysis and data validation
+- Log analysis and root-cause investigation
+- Backend and API troubleshooting
+- Incident documentation and technical communication
+- Reproducing issues across development and production environments
 
 ---
 

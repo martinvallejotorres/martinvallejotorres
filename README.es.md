@@ -25,13 +25,21 @@ combinando desarrollo backend, bases de datos y soporte de aplicaciones.
 
 ---
 
-### 👨‍💻 Sobre mí
+## Sobre mí
 
-- 🧠 **Desarrollador SQL e Ingeniero de Soporte** especializado en **T-SQL, .NET y SQL Server**.  
-- 💻 Experiencia en **diseño de bases de datos, análisis de consultas, índices, vistas y procedimientos almacenados**.  
-- ⚙️ Enfocado en **optimización de rendimiento** y resolución de problemas en entornos productivos.  
-- ☁️ Certificado como **AWS Cloud Practitioner**, con conocimientos en arquitecturas cloud y operaciones seguras de datos.  
-- 🧩 Fuerte mentalidad analítica y pasión por **automatizar procesos, depurar errores y mejorar la eficiencia de sistemas**.  
+Soy un desarrollador backend enfocado en crear aplicaciones confiables con
+**C#/. NET, Java/Spring Boot y bases de datos relacionales**.
+
+Mi experiencia en **Desarrollo de Aplicaciones** me ayuda a acercarme al desarrollo
+con una mentalidad de producción: solución de problemas, análisis de registros,
+entender los flujos de datos y comunicar soluciones técnicas con claridad.
+
+- 🔧 Desarrollo backend con C#/. NET y Java
+- 🗄️ SQL Server y PostgreSQL
+- 🧪 Pruebas, depuración y resolución de problemas
+- 🐳 Docker y entornos orientados a la producción
+- ☁️ Profesional de la nube certificado por AWS
+- 🇦🇷 Con sede en Argentina
 
 ---
 

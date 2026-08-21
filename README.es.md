@@ -67,6 +67,10 @@ entender los flujos de datos y comunicar soluciones técnicas con claridad.
 
 ### 📊 Proyectos Destacados
 
+<table>
+<tr>
+<td width="50%" valign="top">
+  
 ### 🌱 ArvoApp
 
 Aplicación para la gestión de cultivos, monitoreo del clima y
@@ -81,6 +85,9 @@ operaciones agrícolas basadas en datos.
 
 **Pila:** C# . NET SQL Server EF Core
 [Ver repositorio](ENLACE_A_ARVOAPP)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎲 RollNexa
 
@@ -98,6 +105,22 @@ coordinar la disponibilidad y chatear en tiempo real.
 
 [Ver repositorio](https://github.com/martinvallejotorres/RollNexa)
 [Sitio en vivo](https://rollnexa.online)
+
+</td>
+</tr>
+</table>
+
+
+## Experiencia de soporte de aplicaciones
+
+Más allá del desarrollo, tengo experiencia investigando y resolviendo
+problemas relacionados con la aplicación y los datos.
+
+- Análisis de consultas SQL y validación de datos
+- Análisis del registro e investigación de la causa raíz
+- Solución de problemas de backend y API
+- Documentación de incidentes y comunicación técnica
+- Reproducir problemas en entornos de desarrollo y producción
 
 ---
 

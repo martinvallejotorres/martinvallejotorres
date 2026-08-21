@@ -42,16 +42,25 @@ understanding data flows and communicating technical solutions clearly.
 - 🇦🇷 Based in Argentina
 ---
 
-### 🧰 Tech Stack & Tools
+## Tech Stack
 
-#### 💾 Databases
-![](https://skillicons.dev/icons?i=sqlserver,postgres,mysql)
+**Backend**
 
-#### ⚙️ Languages & Frameworks
-![](https://skillicons.dev/icons?i=cs,dotnet,java,js)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot)
 
-#### ☁️ Cloud & Tools
-![](https://skillicons.dev/icons?i=aws,azure,docker,git,github,postman,visualstudio)
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
+
+**Tools & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 
 ---
 

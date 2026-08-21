@@ -132,13 +132,11 @@ problemas relacionados con la aplicación y los datos.
 
 ---
 
-### 🧠 Enfoque Actual
+## En qué estoy trabajando
 
-- Optimización de consultas (Execution Plans, Indexing, Tuning).  
-- Diseño y normalización de bases de datos.  
-- Procedimientos almacenados, funciones y transacciones.  
-- Integración de C# + SQL para backend y soporte técnico.  
-- Preparación para certificación **Azure Data Fundamentals (DP-900)**.
+- 🌱 Creación de **ArvoApp** con C#/. NET y SQL Server
+- 🎲 Desarrollo de **RollNexa** con Java, Spring Boot y PostgreSQL
+- 🔧 Mejorar las prácticas de solución de problemas de pruebas, implementación y producción
 
 ---
 

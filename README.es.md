@@ -67,14 +67,37 @@ entender los flujos de datos y comunicar soluciones técnicas con claridad.
 
 ### 📊 Proyectos Destacados
 
-| Proyecto | Tecnologías | Estado | Descripción |
-|----------|-------------|--------|-------------|
-| **Sistema de Gestión de Ventas (SQL)** | `SQL Server`, `T-SQL` | ✅ Finalizado | Diseño relacional completo con operaciones CRUD, consultas analíticas y reportes de ventas. |
-| **Optimización de Consultas SQL** | `SQL Server`, `Índices`, `Planes de ejecución` | 🛠️ En desarrollo | Proyecto enfocado en tuning de consultas e interpretación de planes de ejecución. |
-| **ArvoApp** | `.NET MAUI`, `EF Core`, `SQL Server` | 🛠️ En desarrollo | Plataforma de gestión agrícola con seguimiento meteorológico y base de datos relacional. |
-| **CRUD Usuarios (Java)** | `Java`, `MySQL` | ✅ Finalizado | Sistema CRUD básico por consola para gestión de usuarios. |
+### 🌱 ArvoApp
 
-> 💡 Cada proyecto incluye scripts, documentación y análisis de rendimiento para mostrar experiencia práctica.
+Aplicación para la gestión de cultivos, monitoreo del clima y
+operaciones agrícolas basadas en datos.
+
+**Aspectos destacados**
+
+- Construido con C# y . NET
+- Integración de bases de datos relacionales
+- Reglas de negocio y gestión de datos
+- Arquitectura de producción
+
+**Pila:** C# . NET SQL Server EF Core
+[Ver repositorio](ENLACE_A_ARVOAPP)
+
+### 🎲 RollNexa
+
+Plataforma para encontrar grupos de RPG de mesa, organizar campañas,
+coordinar la disponibilidad y chatear en tiempo real.
+
+**Aspectos destacados**
+
+- API REST y comunicación WebSocket
+- Autenticación de sesión y permisos de rol
+- Migraciones PostgreSQL con Flyway
+- Pruebas automatizadas e implementación de Docker
+
+**Pila:** Java Spring Boot PostgreSQL React
+
+[Ver repositorio](https://github.com/martinvallejotorres/RollNexa)
+[Sitio en vivo](https://rollnexa.online)
 
 ---
 

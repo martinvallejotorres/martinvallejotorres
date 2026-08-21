@@ -25,14 +25,21 @@ combining backend development, databases and application support.
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-- 🧠 **SQL Developer and Support Engineer** passionate about building and optimizing data-driven systems.  
-- 💻 Experienced in **T-SQL, .NET, C#**, and **SQL Server performance tuning**.  
-- ⚙️ Skilled in query analysis, database design, indexing, stored procedures, and troubleshooting backend data issues.  
-- ☁️ AWS Certified Cloud Practitioner — solid understanding of cloud architecture and secure data operations.  
-- 🧩 Strong focus on **clean, efficient SQL logic** and clear communication when solving complex technical problems.
+I'm a backend developer focused on building reliable applications with
+**C#/.NET, Java/Spring Boot and relational databases**.
 
+My experience in **Application Development** helps me approach development
+with a production mindset: troubleshooting issues, analyzing logs,
+understanding data flows and communicating technical solutions clearly.
+
+- 🔧 Backend development with C#/.NET and Java
+- 🗄️ SQL Server and PostgreSQL
+- 🧪 Testing, debugging and troubleshooting
+- 🐳 Docker and production-oriented environments
+- ☁️ AWS Certified Cloud Practitioner
+- 🇦🇷 Based in Argentina
 ---
 
 ### 🧰 Tech Stack & Tools

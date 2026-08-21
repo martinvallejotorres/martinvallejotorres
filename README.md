@@ -55,14 +55,51 @@ understanding data flows and communicating technical solutions clearly.
 
 ---
 
-### 📊 Featured Projects
+## Featured Projects
 
-| Project | Tech Stack | Status | Description |
-|--------|------------|--------|-------------|
-| **SQL Sales Management System** | `SQL Server`, `T-SQL` | ✅ Completed | Relational database design with CRUD, JOINs, and analytical queries for sales tracking. |
-| **SQL Query Optimization** | `SQL Server`, `Indexes`, `Execution Plans` | 🛠️ In progress | Demonstrates query performance tuning and index design. |
-| **ArvoApp** | `.NET MAUI`, `EF Core`, `SQL Server` | 🛠️ In development | Crop management platform with weather monitoring and database-driven dashboards. |
-| **CRUD Users** | `Java`, `MySQL` | ✅ Completed | Simple user management system with basic CRUD functionality. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 ArvoApp
+
+Application for crop management, weather monitoring and
+data-driven agricultural operations.
+
+**Highlights**
+
+- Built with C# and .NET
+- Relational database integration
+- Business rules and data management
+- Production-oriented architecture
+
+**Stack:** C# · .NET · SQL Server · EF Core
+
+[View repository](ENLACE_A_ARVOAPP)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎲 RollNexa
+
+Platform for finding tabletop RPG groups, organizing campaigns,
+coordinating availability and chatting in real time.
+
+**Highlights**
+
+- REST API and WebSocket communication
+- Session authentication and role permissions
+- PostgreSQL migrations with Flyway
+- Automated tests and Docker deployment
+
+**Stack:** Java · Spring Boot · React · PostgreSQL
+
+[View repository](https://github.com/martinvallejotorres/RollNexa) ·
+[Live site](https://rollnexa.online)
+
+</td>
+</tr>
+</table>
 
 > 🧠 Each project includes scripts, documentation, and performance analysis for recruiters and collaborators to review.
 

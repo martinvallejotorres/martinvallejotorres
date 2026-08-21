@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Martín Vallejo 👋</h1>
 
 <h3 align="center">
-Backend Developer · C#/.NET · Java/Spring Boot · SQL
+Backend Developer · C#/.NET & Java/Spring Boot · SQL · Application Support
 </h3>
 
 <p align="center">
@@ -131,13 +131,11 @@ application and data-related issues.
 
 ---
 
-### 🧠 Current Focus
+## What I'm Working On
 
-- Query Optimization & Execution Plans  
-- Database Normalization & Design  
-- T-SQL Stored Procedures & Transactions  
-- C# + SQL Integration for backend support  
-- Azure Data Fundamentals (next certification goal)
+- 🌱 Building **ArvoApp** with C#/.NET and SQL Server
+- 🎲 Developing **RollNexa** with Java, Spring Boot and PostgreSQL
+- 🔧 Improving testing, deployment and production troubleshooting practices
 
 ---
 

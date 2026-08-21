@@ -1,10 +1,24 @@
 <h1 align="center">Hi, I'm Martín Vallejo 👋</h1>
-<h3 align="center">SQL Developer | .NET + SQL Server Support Engineer | AWS Cloud Practitioner</h3>
+
+<h3 align="center">
+Backend Developer · C#/.NET · Java/Spring Boot · SQL
+</h3>
 
 <p align="center">
-  <a href="mailto:vallejomartin6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-d14836?logo=gmail&style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/martinvallejotorres"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"></a>
-  <a href="https://github.com/martinvallejotorres"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white"></a>
+I build data-driven applications and troubleshoot production issues,
+combining backend development, databases and application support.
+</p>
+
+<p align="center">
+  <a href="mailto:vallejomartin6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/martinvallejotorres">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/martinvallejotorres">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 🌐 Available in: [English](README.md) | [Español](README.es.md)
